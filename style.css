@@ -1,0 +1,39 @@
+body{
+    font-size: 20px;
+    background-color:teal;
+}
+
+#btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 630px;
+    border: 3px solid teal;
+    font-family: monospace;
+    font-style: bold;
+}
+
+#style{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+}
+
+
+#random{
+    color:teal;
+    display: flex;
+    justify-content: center;
+    width: 425px;
+    height: 50px;
+    margin-left: 460px;
+    font-size: 22px;
+    font-weight: bold;
+
+    background-color: gainsboro;
+    border-radius: 5px;
+    display:flex;
+    float: left;
+}
